@@ -1,5 +1,5 @@
 const { Client } = require("discord.js");
-const tokens = []
+const tokens = [ODMzNzg5NDc3NTExNjI2ODM0.YH3c9g.KtpTKaUEq4btVisKRm0Y9JMZgY0]
 const voice = ""
 tokens.forEach(token => {
     const client = new Client();
